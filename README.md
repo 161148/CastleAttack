@@ -1,9 +1,13 @@
 # CastleAttack
 
 --Computational Theory--
+
 Programming Language: JavaScript
+
 December 04 2019
+
 Polytechnic University of San Luis Potosí
+
 Francisco Rafael Lezama Hernández 161148
 
 Requirements:
